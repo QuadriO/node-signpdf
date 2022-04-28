@@ -1,11 +1,7 @@
 {
     "name": "@quadrio/node-signpdf",
-    "version": "1.5.4",
+    "version": "1.5.5",
     "description": "Simple signing of PDFs in node.",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/vbuch/node-signpdf"
-    },
     "license": "MIT",
     "keywords": [
         "sign",
