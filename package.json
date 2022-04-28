@@ -1,6 +1,6 @@
 {
     "name": "@quadrio/node-signpdf",
-    "version": "1.5.5",
+    "version": "1.5.7",
     "description": "Simple signing of PDFs in node.",
     "license": "MIT",
     "keywords": [
@@ -32,7 +32,7 @@
         "prepare": "husky install"
     },
     "peerDependencies": {
-        "node-forge": "^1.2.1"
+        "node-forge": "1.2.1"
     },
     "devDependencies": {
         "@babel/cli": "^7.0.0",
